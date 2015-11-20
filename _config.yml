@@ -1,0 +1,28 @@
+name: calvinsexton
+favicon: null
+layout_spectrum: 0.9244371559470892
+typography_spectrum: 0.03258316428400576
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5010881572961807
+  lightness: 0.8055820297449827
+  saturation: 0.33737085689790547
+  rhythmicContrast: 0.35179081023670733
+purpose: []
